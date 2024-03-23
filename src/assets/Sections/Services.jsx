@@ -1,5 +1,5 @@
 
-import ServicesCard from "../Components/servicesCard"
+import ServicesCard from "../Components/ServicesCard"
 import { services } from "../Constants"
 
 
